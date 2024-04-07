@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Thilina Disanayaka from Sri Lanka
+I am Thilina Disanayaka from Sri Lanka. I experienced with MERN Stack for 2 years.
 
 <!--
 **dltmthilina/dltmthilina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
