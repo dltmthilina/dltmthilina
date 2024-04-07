@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi,+I'm+Thilina.;I+love+open-source.;I+love+programming.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
+</p>
 I am Thilina Disanayaka from Sri Lanka. I experienced with MERN Stack for 2 years.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltmthilina&show_icons=true)
