@@ -1,6 +1,8 @@
 ### Hi there 👋
 I am Thilina Disanayaka from Sri Lanka. I experienced with MERN Stack for 2 years.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltmthilina)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **dltmthilina/dltmthilina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
