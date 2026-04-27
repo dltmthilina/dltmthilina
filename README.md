@@ -13,7 +13,7 @@
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,java,express,adonis,mongooseorm" />
+    <img src="https://skillicons.dev/icons?i=nodejs,java,express,adonis,mongooseorm,adonisjs,nestjs" />
   </a>
 </p>
 <br>
